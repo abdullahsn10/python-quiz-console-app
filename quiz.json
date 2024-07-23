@@ -94,5 +94,27 @@
             ],
             "answer": "2"
         }
+    ],
+    "test": [
+        {
+            "question": "What's your name?",
+            "options": [
+                "abdullah",
+                "ahmad",
+                "wasim",
+                "mohammad"
+            ],
+            "answer": "abdullah"
+        },
+        {
+            "question": "How old are you?",
+            "options": [
+                "23",
+                "22",
+                "21",
+                "25"
+            ],
+            "answer": "21"
+        }
     ]
 }

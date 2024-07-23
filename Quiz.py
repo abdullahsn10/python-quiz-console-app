@@ -1,9 +1,10 @@
 class Quiz:
-    '''
-    This is the class for a quiz object, it has many fields:
-        - quiz name
-        - quiz questions as list of objects
-    '''
+    """
+    This is the class for a Quiz object
+    instance variables:
+        name - the name of the Quiz
+        questions - the list of questions in the quiz
+    """
 
     def __init__(self, name, questions):
         self.name = name
