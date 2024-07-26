@@ -1,0 +1,120 @@
+{
+    "sport": [
+        {
+            "question": "Which one is correct team name in NBA?",
+            "options": [
+                "New York Bulls",
+                "Los Angeles Kings",
+                "Golden State Warriros",
+                "Huston Rocket"
+            ],
+            "answer": "Huston Rocket"
+        },
+        {
+            "question": "How many medals did China win at the Beijing Olympics?",
+            "options": [
+                "100",
+                "200",
+                "300",
+                "400"
+            ],
+            "answer": "100"
+        },
+        {
+            "question": "What color are the goalposts in football?",
+            "options": [
+                "Yellow",
+                "Red",
+                "Green",
+                "Blue"
+            ],
+            "answer": "Yellow"
+        },
+        {
+            "question": "How many players are on a baseball team?",
+            "options": [
+                "9",
+                "10",
+                "11",
+                "8"
+            ],
+            "answer": "9"
+        }
+    ],
+    "math": [
+        {
+            "question": "5 + 7 = ?",
+            "options": [
+                "10",
+                "11",
+                "12",
+                "13"
+            ],
+            "answer": "12"
+        },
+        {
+            "question": "12 - 8 = ?",
+            "options": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "10 + 8 = ?",
+            "options": [
+                "18",
+                "21",
+                "2",
+                "8"
+            ],
+            "answer": "18"
+        }
+    ],
+    "test math": [
+        {
+            "question": "1 + 1 =",
+            "options": [
+                "2",
+                "3",
+                "4",
+                "5"
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "5-3 =",
+            "options": [
+                "22",
+                "2",
+                "1",
+                "5"
+            ],
+            "answer": "2"
+        }
+    ],
+    "test": [
+        {
+            "question": "What's your name?",
+            "options": [
+                "abdullah",
+                "ahmad",
+                "wasim",
+                "mohammad"
+            ],
+            "answer": "abdullah"
+        },
+        {
+            "question": "How old are you?",
+            "options": [
+                "23",
+                "22",
+                "21",
+                "25"
+            ],
+            "answer": "21"
+        }
+    ]
+}
